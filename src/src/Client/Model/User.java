@@ -1,4 +1,4 @@
 package Client.Model;
 
-public class user {
+public class User {
 }
