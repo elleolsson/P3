@@ -10,7 +10,7 @@ public class UnsendMessages {
 
     }
 
-    public synchronized put(User user, Message message) {
+    public synchronized void put(User user, Message message) {
     // hämta ArrayList – om null skapa en och placera i unsend
     // lägga till Message i ArrayList
     }
